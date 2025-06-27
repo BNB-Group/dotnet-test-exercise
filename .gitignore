@@ -1,0 +1,45 @@
+// create gitignore file for .net project
+# .NET Core
+# Build results 
+[Dd]ebug/
+[Rr]elease/ 
+bin/
+obj/
+# Visual Studio
+.vs/
+# Visual Studio Code
+.vscode/
+# Rider
+.idea/
+# NuGet Packages
+*.nupkg
+# User-specific files
+*.user
+# Logs
+*.log
+# Temporary files
+*.tmp
+# Backup files
+*.bak
+# Configuration files
+*.config
+# Publish output
+publish/
+# Test results
+TestResults/
+# Coverage results
+*.coverage
+# Database files
+*.mdf
+# Local settings
+local.settings.json
+# Environment variables
+.env
+# Package restore
+packages/
+# Binaries
+*.dll
+# Executables
+*.exe
+# Symbols
+*.pdb

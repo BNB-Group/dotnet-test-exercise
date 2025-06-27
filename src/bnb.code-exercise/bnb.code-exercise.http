@@ -1,0 +1,6 @@
+@bnb.code_exercise_HostAddress = http://localhost:5253
+
+GET {{bnb.code_exercise_HostAddress}}/api/mortgage/calculateMonthlyPayment
+Accept: application/json
+
+###
